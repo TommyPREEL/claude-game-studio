@@ -30,7 +30,7 @@ your-project/
 Or clone and copy:
 
 ```
-git clone https://github.com/<owner>/claude-game-studio.git
+git clone https://github.com/TommyPREEL/claude-game-studio.git
 cp -r claude-game-studio/game-studio ~/.claude/skills/
 ```
 
